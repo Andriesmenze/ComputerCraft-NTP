@@ -1,2 +1,2 @@
 # ComputerCraft-NTP
-NTP Based Time Sync API for ComputerCraft/CC:Tweaked
+NTP Like Time Sync API for ComputerCraft/CC:Tweaked
